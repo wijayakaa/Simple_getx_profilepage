@@ -1,6 +1,13 @@
-# getx_profilepage
+# Simple GetX Profile Page - Baratha Wijaya
 
-A new Flutter project.
+Tugas flutter GetX Profile Page Baratha wijaya 11 SEPTEMBER 2023
+
+- Tugas Flutter ini adalah permulaan,benahi terus skillmu,supaya lebih baik.
+
+Aplikasi penhitung BMI sederhana yang saya buat dengan Login dan list film favorit saya
+
+Baratha wijaya - portofolio
+
 
 ## Getting Started
 
